@@ -27,3 +27,17 @@ This repository owns the desktop product around an unmodified DeepSeek Harness c
 - Keep graphical application launch explicit. Builds, typechecks, unit tests, and Loader smokes must remain headless-safe.
 - Commit before major changes of direction and keep the submodule pin update separate from desktop behavior changes.
 - Keep the repository topology and package-manager split consistent with the [owning Agent Note](.agents/notes/implemented/process/2026-08-15-pinned-upstream-and-isolated-yarn-workspace.md).
+
+## Agent skills
+
+### Issue tracker
+
+Issues and specs for this repository are tracked in GitHub Issues for `penguinseven/deepseek-harness-desktop`. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Use the default five-state triage vocabulary: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, and `wontfix`. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+This is a single-context repository with root-level `CONTEXT.md` and `docs/adr/` conventions. See `docs/agents/domain.md`.
