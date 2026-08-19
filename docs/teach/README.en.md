@@ -12,9 +12,13 @@ documentation in `docs/`.
 1. [Mission](MISSION.en.md): learning goals, constraints, and boundaries.
 2. [Lesson 0001: From Harness to Desktop](lessons/0001-harness-to-desktop.en.md):
    the five-layer model and carrier-pattern selection.
-3. [Integration quick reference](reference/harness-desktop-adapter.en.md): a
+3. [Lesson 0002: From Evidence Map to Compatibility Tracer](lessons/0002-evidence-map-to-compatibility-tracer.en.md):
+   turn discovery into a verifiable lifecycle contract.
+4. [Integration quick reference](reference/harness-desktop-adapter.en.md): a
    discovery checklist for a new target project.
-4. [Reference Skill](skills/harness-desktop-adapter/SKILL.md): a repeatable
+5. [Evidence-map template](reference/integration-evidence-map.en.md): record
+   facts, unknowns, decisions, and verification methods.
+6. [Reference Skill](skills/harness-desktop-adapter/SKILL.md): a repeatable
    agent workflow for assessment or implementation.
 
 ## Documentation convention

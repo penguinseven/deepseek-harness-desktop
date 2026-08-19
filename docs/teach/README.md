@@ -8,8 +8,10 @@
 
 1. [使命](MISSION.md)：学习目标、约束和边界。
 2. [第一课：从 Harness 到 Desktop](lessons/0001-harness-to-desktop.md)：五层模型和接入模式选择。
-3. [接入速查表](reference/harness-desktop-adapter.md)：对新项目进行 discovery 的问题清单。
-4. [参考 Skill](skills/harness-desktop-adapter/SKILL.md)：让 Agent 按同一流程评估或实施接入。
+3. [第二课：从证据图到兼容原型](lessons/0002-evidence-map-to-compatibility-tracer.md)：把 discovery 变成可验证的生命周期 contract。
+4. [接入速查表](reference/harness-desktop-adapter.md)：对新项目进行 discovery 的问题清单。
+5. [Evidence map 模板](reference/integration-evidence-map.md)：记录事实、未知项、决策和验证方式。
+6. [参考 Skill](skills/harness-desktop-adapter/SKILL.md)：让 Agent 按同一流程评估或实施接入。
 
 ## 文档约定
 
